@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d17c616470c4511890df9be4fa93500, type: 3}
+  m_Name: 2D Movement
+  m_EditorClassIdentifier: 
+  handler2D: {fileID: 11400000, guid: e6660c3a30ed9374196918b1b3420ede, type: 2}
+  transformer2D: {fileID: 11400000, guid: 51bc5054e90678e41b97677920e51022, type: 2}
+  applicator2D: {fileID: 11400000, guid: a6bf17c92cc0ed54f8bd6d28c600abf4, type: 2}
